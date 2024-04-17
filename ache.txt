@@ -1,0 +1,2 @@
+Trial 33 finished with value: 737.0 and parameters: {'lr': 8.478375064236576e-05, 'batch_size': 64, 'n_epochs': 6, 'clip_range': 0.29350217443094645, 'n_steps': 512, 'gamma': 0.9965823752000915, 'seed': 398}. Best is trial 29 with value: 1521.4.
+
